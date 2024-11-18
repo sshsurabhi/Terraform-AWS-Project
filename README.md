@@ -40,7 +40,7 @@ To deploy this project, follow these steps:
    terraform init
    terraform apply
    
-![ScreenShot](C:\Users\surab\Downloads\Terraform-AWS-Project\Images-Implemented\terraform-1.png)
+![ScreenShot](Images-Implemented/terraform-1.png)
 ### Notes:
 - Make sure to adjust the "Getting Started" section to include any specific commands or requirements needed for your project.
 - If you have additional features, dependencies, or instructions, feel free to expand this `README.md` accordingly.
