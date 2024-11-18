@@ -39,8 +39,15 @@ To deploy this project, follow these steps:
    cd terraform-project-final
    terraform init
    terraform apply
-   
+
+
+![ScreenShot](Images-Implemented/terraform-8.png)
+![ScreenShot](Images-Implemented/terraform-5.png)   
+![ScreenShot](Images-Implemented/terraform-4.png)
 ![ScreenShot](Images-Implemented/terraform-1.png)
+![ScreenShot](Images-Implemented/terraform-3.png)
+![ScreenShot](Images-Implemented/terraform-9.png)
+![ScreenShot](Images-Implemented/terra4.png)
 ### Notes:
 - Make sure to adjust the "Getting Started" section to include any specific commands or requirements needed for your project.
 - If you have additional features, dependencies, or instructions, feel free to expand this `README.md` accordingly.
